@@ -23,22 +23,22 @@ Clonar el repositorio:
 
 ```git clone https://github.com/LvL23HT/proxy_checker.git cd proxy-checker ```
 
-# Ejecute el programa:
+Ejecute el programa:
 
 
 ```python main.py ```
 
 Después de ejecutar el programa, se le presentará un menú para seleccionar el tipo de protocolo que desea verificar.
 
-Pasos para la instalación y uso en diferentes sistemas operativos
+## Pasos para la instalación y uso en diferentes sistemas operativos
 
 # Windows:
 
-Para instalar Python en Windows, descargue el instalador desde el sitio web oficial de Python y siga las instrucciones. El instalador incluirá pip, por lo que también podrá instalar aiohttp utilizando el comando pip install aiohttp en el símbolo del sistema.
+Para instalar Python en Windows, descargue el instalador desde el sitio web oficial de Python y siga las instrucciones. El instalador incluirá pip, por lo que también podrá instalar aiohttp utilizando el comando ```pip install aiohttp``` en el símbolo del sistema.
 
 # Linux:
 
-Dependiendo de su distribución de Linux, es posible que ya tenga Python instalado. Puede verificar esto ejecutando python3 --version. Si no está instalado, puede usar el gestor de paquetes de su distribución para instalar Python.
+Dependiendo de su distribución de Linux, es posible que ya tenga Python instalado. Puede verificar esto ejecutando ``` python3 --version``` . Si no está instalado, puede usar el gestor de paquetes de su distribución para instalar Python.
 
 Después de instalar Python, puede instalar aiohttp con 
 ```pip3 install aiohttp```
@@ -48,7 +48,7 @@ Después de instalar Python, puede instalar aiohttp con
 En Termux, primero deberá instalar Python con pkg install python. Luego, puede instalar aiohttp con ```pip install aiohttp```
 
 Recuerde, en todos los sistemas operativos, debe clonar el repositorio y navegar hasta el directorio del proyecto antes de ejecutar el script con 
-```python Proxy_Checker.py```
+```python main.py```
 
 Espero que este post sea útil para entender cómo usar este verificador de proxy. Si tienes alguna pregunta o problema, no dudes en abrir un nuevo issue.
 
