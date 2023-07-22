@@ -30,20 +30,20 @@ Ejecute el programa:
 
 Después de ejecutar el programa, se le presentará un menú para seleccionar el tipo de protocolo que desea verificar.
 
-## Pasos para la instalación y uso en diferentes sistemas operativos
+# Pasos para la instalación y uso en diferentes sistemas operativos
 
-# Windows:
+## Windows:
 
 Para instalar Python en Windows, descargue el instalador desde el sitio web oficial de Python y siga las instrucciones. El instalador incluirá pip, por lo que también podrá instalar aiohttp utilizando el comando ```pip install aiohttp``` en el símbolo del sistema.
 
-# Linux:
+## Linux:
 
 Dependiendo de su distribución de Linux, es posible que ya tenga Python instalado. Puede verificar esto ejecutando ``` python3 --version``` . Si no está instalado, puede usar el gestor de paquetes de su distribución para instalar Python.
 
 Después de instalar Python, puede instalar aiohttp con 
 ```pip3 install aiohttp```
 
-# Termux (Android):
+## Termux (Android):
 
 En Termux, primero deberá instalar Python con pkg install python. Luego, puede instalar aiohttp con ```pip install aiohttp```
 
