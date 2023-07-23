@@ -60,6 +60,8 @@ Después de instalar Python, puede instalar aiohttp con
 
 En Termux, primero deberá instalar Python con pkg install python. Luego, puede instalar aiohttp con ```pip install aiohttp```
 
+# Recordatorio
+
 Recuerde, en todos los sistemas operativos, debe clonar el repositorio y navegar hasta el directorio del proyecto antes de ejecutar el script con 
 ```python main.py```
 
