@@ -21,7 +21,8 @@ aiohttp: Un cliente HTTP/HTTPs asíncrono. Puede instalarlo utilizando el gestor
 Clonar el repositorio:
 
 
-```git clone https://github.com/LvL23HT/proxy_checker.git cd proxy-checker ```
+```git clone https://github.com/LvL23HT/proxy_checker.git ```
+``` cd proxy-checker ```
 
 Ejecute el programa:
 
