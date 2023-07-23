@@ -30,6 +30,9 @@ Ejecute el programa:
 
 Después de ejecutar el programa, se le presentará un menú para seleccionar el tipo de protocolo que desea verificar.
 
+![image](https://github.com/LvL23HT/Proxy_Checker/assets/130660521/74373760-4217-40ef-8ac2-0622e1851c36)
+
+
 # Pasos para la instalación y uso en diferentes sistemas operativos
 
 ## Windows:
