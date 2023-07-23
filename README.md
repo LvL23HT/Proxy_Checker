@@ -5,7 +5,7 @@ This project is a Python proxy checker that supports HTTP, HTTPS, SOCKS4, and SO
 
 # Instalación y Uso del Verificador de Proxies
 
-Este proyecto consta de un verificador de proxies asincrónico en Python que permite verificar proxies para diferentes protocolos como HTTP, HTTPS, SOCKS4 y SOCKS5. El código fuente principal es main.py.
+Este proyecto consta de un verificador de proxies asincrónico en Python que permite verificar proxies para diferentes protocolos como HTTP, HTTPS, SOCKS4 y SOCKS5. El código fuente principal es ```main.py```
 
 # Requisitos
 
