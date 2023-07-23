@@ -62,7 +62,13 @@ En Termux, primero deberá instalar Python con pkg install python. Luego, puede 
 
 # Recordatorio
 
-Recuerde, en todos los sistemas operativos, debe clonar el repositorio y navegar hasta el directorio del proyecto antes de ejecutar el script con 
+Recuerde, en todos los sistemas operativos, debe clonar el repositorio:
+```git clone https://github.com/LvL23HT/proxy_checker.git```  
+
+y navegar hasta el directorio del proyecto:
+```cd proxy-checker```
+
+antes de ejecutar el script con: 
 ```python main.py```
 
 Espero que este post sea útil para entender cómo usar este verificador de proxy. Si tienes alguna pregunta o problema, no dudes en abrir un nuevo issue.
