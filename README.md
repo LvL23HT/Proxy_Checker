@@ -36,11 +36,12 @@ Después de ejecutar el programa, se le presentará un menú para seleccionar el
 Los proxys que desea verificar deben estar en el archivo proxies.txt
 
 Pudes limitar el número de tareas segun las necesidades de tu PC y tu conexión a internet, por defecto 5000
+
 ```sem = asyncio.Semaphore(5000)```
 
-También puedes aumentar el tiempo de respuesta para determinar si el proxy esta vivo, por defecto 5s
+También puedes aumentar el tiempo de respuesta para determinar si el proxy esta vivo, por defecto 5s. igualmente el servidor para la verificación, por defecto Google.
 
-
+```async with sem, session.get('https://www.google.com', proxy=f'{protocol_type}://{proxy}', timeout=5) as response:```
 
 # Pasos para la instalación y uso en diferentes sistemas operativos
 
