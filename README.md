@@ -33,6 +33,7 @@ Después de ejecutar el programa, se le presentará un menú para seleccionar el
 
 <img src="https://github.com/LvL23HT/Proxy_Checker/blob/main/screenshot.png" width="500">
 
+Los proxys que desea verificar deben estar en el archivo proxies.txt
 
 # Pasos para la instalación y uso en diferentes sistemas operativos
 
