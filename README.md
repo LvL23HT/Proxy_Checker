@@ -22,7 +22,7 @@ Clonar el repositorio:
 
 
 ```git clone https://github.com/LvL23HT/proxy_checker.git ```
-``` cd proxy-checker ```
+``` cd proxy_checker ```
 
 Ejecute el programa:
 
@@ -66,7 +66,7 @@ Recuerde, en todos los sistemas operativos, debe clonar el repositorio:
 ```git clone https://github.com/LvL23HT/proxy_checker.git```  
 
 y navegar hasta el directorio del proyecto:
-```cd proxy-checker```
+```cd proxy_checker```
 
 antes de ejecutar el script con: 
 ```python main.py```
