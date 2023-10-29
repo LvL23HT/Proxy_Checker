@@ -14,7 +14,10 @@ Python 3.7+ : Para instalar Python, visite la página oficial de descarga de Pyt
 aiohttp: Un cliente HTTP/HTTPs asíncrono. Puede instalarlo utilizando el gestor de paquetes pip:
 
 
-```pip install aiohttp```
+```
+    pip install aiohttp
+    pip install colorama
+```
 
 # Uso
 
